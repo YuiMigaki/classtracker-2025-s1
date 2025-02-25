@@ -1,20 +1,4 @@
 <?php
-/**
- * FILE TITLE GOES HERE
- *
- * DESCRIPTION OF THE PURPOSE AND USE OF THE CODE
- * MAY BE MORE THAN ONE LINE LONG
- * KEEP LINE LENGTH TO NO MORE THAN 96 CHARACTERS
- *
- * Filename:        UserController.php
- * Location:        FILE_LOCATION
- * Project:         classtracker-2025-s1
- * Date Created:    23/02/2025
- *
- * Author:          Yui_Migaki
- *
- */
-
 
 namespace App\Http\Controllers;
 

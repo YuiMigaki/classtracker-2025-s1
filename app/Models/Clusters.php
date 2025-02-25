@@ -11,7 +11,6 @@ class Clusters extends Model
     use HasFactory;
 
     protected $fillable = [
-        'id',
         'code',
         'title',
         'qualification',
